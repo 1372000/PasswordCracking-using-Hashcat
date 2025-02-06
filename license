@@ -1,0 +1,16 @@
+
+---
+
+### 4. **Promoting self learning*
+
+1. **Create a Post**:
+   - Share the repository link along with a brief description of the project, explaining how it can help with **password cracking** (for educational purposes) and **security audits**.
+   - Mention the use of **GPU acceleration** and the **Docker environment** for smooth deployment.
+
+2. **Write a Blog Post or LinkedIn Article**:
+   - A more detailed write-up on how **Hashcat** works, how it is optimized in the project, and how the project can benefit security professionals.
+   - Link to your GitHub repository for others to access and contribute.
+
+---
+
+With these steps, you will have an organized, scalable project that is ready for public release on **GitHub** and **LinkedIn**. Make sure to follow up with periodic updates as the project grows!
