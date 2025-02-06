@@ -1,0 +1,11 @@
+version: '3'
+services:
+  hashcat:
+    build: ./docker
+    runtime: nvidia  # Make sure you have the NVIDIA runtime for Docker enabled
+    volumes:
+      - .:/project
+    environment:
+      - DISPLAY=${DISPLAY}
+    network_mode: host
+    command: python3 scripts/run_hashcat.py
