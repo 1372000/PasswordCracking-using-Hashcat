@@ -22,20 +22,20 @@ This project demonstrates how to use **Hashcat**, the world's fastest password c
 **Install dependencies**
 If you're not using Docker, install Hashcat and Python dependencies:
 
-1.sudo apt install hashcat
-2.pip install -r requirements.txt
+**sudo apt install hashcat**
+**pip install -r requirements.txt**
 
 ## Running Hashcat with Docker 
 
 
 To run Hashcat using Docker:
-1.docker-compose up
+**docker-compose up**
 
-**Running the Python Scripts**
+## Running the Python Scripts
 To run the main cracking script:
 
 
-1.python3 scripts/run_hashcat.py
+**python3 scripts/run_hashcat.py**
 
 **To benchmark your GPU performance:**
 
