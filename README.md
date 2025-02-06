@@ -38,5 +38,5 @@ To run the main cracking script:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/hashcat_project.git
+git clone https://github.com/13072000/hashcat_project.git
 cd hashcat_project
